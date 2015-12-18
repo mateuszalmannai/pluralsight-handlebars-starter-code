@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight-handlebars",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mateuszalmannai/pluralsight-handlebars-starter-code",
+  "authors": [
+    "mateusz <mateuszalmannai@googlemail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "handlebars": "v3.0.3",
+    "material-design-lite": "~1.0.6"
+  }
+}
